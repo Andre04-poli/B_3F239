@@ -15,6 +15,6 @@ public class CodekataProblem {
     }
 
     public static int myProblem4(int i, int j){
-        return i;
+        return i+i-i;
     }
 }
